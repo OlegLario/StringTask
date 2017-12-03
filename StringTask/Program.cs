@@ -10,7 +10,7 @@ namespace StringTask
     {
         static void Main(string[] args)
         {
-            string testBranch;
+            string Temp;
             StringLogic item = new StringLogic();
             Console.Write("Введите строку: ");
             string someString = Console.ReadLine();
