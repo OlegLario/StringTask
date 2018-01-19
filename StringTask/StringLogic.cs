@@ -13,6 +13,7 @@ namespace StringTask
             someString.Remove(1, 3);
 
             return someString;
+
         }
         
     }
