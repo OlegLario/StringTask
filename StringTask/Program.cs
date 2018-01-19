@@ -18,7 +18,6 @@ namespace StringTask
             modifiedString = item.RemoveStringElements(someString);
             Console.WriteLine(modifiedString);
             Console.ReadLine();
-
         }
     }
 }
